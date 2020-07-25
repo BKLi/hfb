@@ -7,14 +7,14 @@ Created on Thu Jan 16 12:01:10 2020
 @project hfb -- eQTL
 
 Script for processing complete (pospoisson) post-liftover interations
+!!!!! DEPRECATED -- lifting over eQTL to hg38 instead for simplicity 
 
-* S2 of pipeline
+* S2 of alternative pipeline
 * collect boths ends of interactions after liftover
 * data cleaning
 * interactions sampling
 * output file for intersection
 
-!!!!! deprecated -- lifting over eQTL to hg38 instead for simplicity 
 """
 
 import pandas as pd

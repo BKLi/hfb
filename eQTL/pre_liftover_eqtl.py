@@ -6,6 +6,8 @@ Created on Thu Jan 16 18:20:28 2020
 @project: hfb -- eQTL
 
 format eQTL dataset from Geschwind Lab / prepare for lifting over to hg38
+* S1 of alternative pipeline
+* next step: eqtl_hg19tohg38.R
 """
 
 import sys
